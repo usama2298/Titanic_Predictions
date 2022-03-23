@@ -1,2 +1,3 @@
 # Titanic_Predictions
-Kaggle Titanic Competition 
+
+Kaggle Titanic Competition
